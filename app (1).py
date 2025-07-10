@@ -1,7 +1,7 @@
 
 import streamlit as st
 import os
-import urlib.request
+import urllib.request
 import torch
 import torchvision.transforms as transforms
 from torchvision import models
